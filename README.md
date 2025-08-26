@@ -21,7 +21,7 @@ It helps analyze **sales, products, and reviews** with the ability to filter by 
 ---
 
 ## 📸 Dashboard Preview
-Amazon sales dashboard.png
+![Amazon Sales Dashboard](https://github.com/RajuSingh14/Amazon_Sales_Dashboard/blob/main/Amazon%20sales%20dashboard.png)
 
 ---
 
